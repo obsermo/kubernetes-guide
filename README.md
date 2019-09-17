@@ -45,4 +45,4 @@ spec:
 
 8. 64-65页，创建Pod的模板缩进错误
 
-9. 
+9. 71页，创建deployment为kubectl create，查看deployment为kubectl get 和 kubectl describe，空格丢失
