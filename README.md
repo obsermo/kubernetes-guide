@@ -48,3 +48,5 @@ spec:
 9. 71页，创建deployment为kubectl create，查看deployment为kubectl get 和 kubectl describe，空格丢失
 
 10. 82页，StatefulSet扩容和缩容第一行空格丢失，应该是kubectl scale 和 kubectl patch
+
+11. 86页，非级联删除第一行，空格丢失，应该是kubectl delete sts xxxx
