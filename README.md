@@ -50,3 +50,5 @@ spec:
 10. 82页，StatefulSet扩容和缩容第一行空格丢失，应该是kubectl scale 和 kubectl patch
 
 11. 86页，非级联删除第一行，空格丢失，应该是kubectl delete sts xxxx
+
+12. 90页， 创建DaemonSet，第二段应该是nginx ingress，空格丢失。
