@@ -34,3 +34,15 @@ spec:
 
 
 3. 99页创建Secret，命令行为kubectl，错写成了kubelet
+
+4. 3页，第二段：会造成Etcd（存储Kubernetes信息的键-值数据库）同步不正常
+
+5. 53页，显示Docker信息，命令docker info
+
+6. 59页， 第二段空格丢失，应该是docker build -t
+
+7. 62页， 什么是Pod第二行头一个单词Pod
+
+8. 64-65页，创建Pod的模板缩进错误
+
+9. 
