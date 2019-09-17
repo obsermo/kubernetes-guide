@@ -46,3 +46,5 @@ spec:
 8. 64-65页，创建Pod的模板缩进错误
 
 9. 71页，创建deployment为kubectl create，查看deployment为kubectl get 和 kubectl describe，空格丢失
+
+10. 82页，StatefulSet扩容和缩容第一行空格丢失，应该是kubectl scale 和 kubectl patch
