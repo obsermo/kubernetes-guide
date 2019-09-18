@@ -1,6 +1,8 @@
 # kubernetes-guide
 《再也不踩坑的Kubernetes实战指南》代码及勘误
 
+## 非常抱歉书中的错误给你带来的不便
+
 ### 《再也不踩坑的Kubernetes实战指南》勘误
 
 
@@ -59,4 +61,10 @@ spec:
 
 15. 156页，最上面空格丢失，helm fetch
 
-16. 
+16. 215页， docker项，docker run和docker pull 空格丢失，alwaysPull少了一个l
+
+17. 255页，第二段第二行，最后一句是不同namespace
+
+18. 257页，创建service的yaml的namespace是sc
+
+
