@@ -52,3 +52,11 @@ spec:
 11. 86页，非级联删除第一行，空格丢失，应该是kubectl delete sts xxxx
 
 12. 90页， 创建DaemonSet，第二段应该是nginx ingress，空格丢失。
+
+13. 127页， 第4节更新Ingress， 应该是kubectl apply -f，空格丢失
+
+14. 142页， 3.1.2标题为部署GFS集群
+
+15. 156页，最上面空格丢失，helm fetch
+
+16. 
