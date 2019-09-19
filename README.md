@@ -68,3 +68,5 @@ spec:
 18. 257页，创建service的yaml的namespace是sc
 
 
+### 书中标注图片不清晰的，可以查看本网址
+https://github.com/dotbalo/kubernetes-guide
