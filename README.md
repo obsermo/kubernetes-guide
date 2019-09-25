@@ -69,5 +69,4 @@ spec:
 
 19. 11页，master02配置，apiServerCertSANs，第一行是k8s-master01 
 
-### 书中标注图片不清晰的，可以查看本网址
-https://github.com/dotbalo/kubernetes-guide
+### 书中标注图片不清晰的，可以查看本网址的png
