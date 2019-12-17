@@ -69,4 +69,24 @@ spec:
 
 19. 11页，master02配置，apiServerCertSANs，第一行是k8s-master01 
 
+20. 书中标注开机内核加载可能有时候会不生效，可以采用如下方式
+````
+将需要加载的模块写入/etc/modules-load.d/ipvs.conf文件
+cat /etc/modules-load.d/ipvs.conf 
+ip_vs
+ip_vs_rr
+ip_vs_wrr
+ip_vs_sh
+nf_conntrack_ipv4
+ip_tables
+ip_set
+xt_set
+ipt_set
+ipt_rpfilter
+ipt_REJECT
+ipip
+然后执行systemctl enable --now systemd-modules-load.service即可
+````
+
+
 ### 书中标注图片不清晰的，可以查看本网址的png
