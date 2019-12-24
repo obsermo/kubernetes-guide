@@ -87,6 +87,6 @@ ipt_REJECT
 ipip
 然后执行systemctl enable --now systemd-modules-load.service即可
 ````
-
+21. 5.6小结创建tls证书命令kubectl create secret tls ca-secret --key tls.key --cert tls.crt 
 
 ### 书中标注图片不清晰的，可以查看本网址的png
