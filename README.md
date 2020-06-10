@@ -89,4 +89,6 @@ ipip
 ````
 21. 5.6小结创建tls证书命令kubectl create secret tls ca-secret --key tls.key --cert tls.crt 
 
+22. 二进制安装时，请注意更改haproxy的端口为8443
+
 ### 书中标注图片不清晰的，可以查看本网址的png
