@@ -1,5 +1,5 @@
 # 超全面、超详细的Kubernetes视频教程，基于最新的1.21
-http://gaoxin.kubeasy.com
+https://ke.qq.com/course/2738602
 
 # kubernetes-guide
 《再也不踩坑的Kubernetes实战指南》代码及勘误
