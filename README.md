@@ -1,4 +1,4 @@
-# 超全面、超详细的Kubernetes视频教程，基于最新的1.21
+# 超全面、超详细的Kubernetes视频教程，基于最新版K8s
 https://ke.qq.com/course/2738602
 
 # kubernetes-guide
