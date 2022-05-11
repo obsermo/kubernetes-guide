@@ -1,3 +1,0 @@
-```
-  Deploy harbor with openldap
-```
