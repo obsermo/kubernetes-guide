@@ -29,3 +29,4 @@
 successThreshold: 1 # 表示检查成功1次表示就绪
 failureThreshold: 2 # 检测失败2次表示未就绪
 ````
+3. 71页 Node节点描述的Docker Engine: 负责对容器的管理，写成了负载对容器的管理
